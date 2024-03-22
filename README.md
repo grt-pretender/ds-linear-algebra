@@ -1,6 +1,8 @@
 # ds-linear-algebra-
 Solutions to Mike X Cohen`s "Practical Linear Algebra for Data Science"
 
+Link to the book on [amazon](https://www.amazon.com/Practical-Linear-Algebra-Data-Science/dp/1098120612/)
+
 2. Vectors, Part 1
 3. Vectors, Part 2
 4. Vector Applications
@@ -15,4 +17,4 @@ Solutions to Mike X Cohen`s "Practical Linear Algebra for Data Science"
 13. Eigendecomposition
 14. Singular Value Decomposition
 15. Eigendecomposition and SVD Applications
-16. Python Tutorial
+
